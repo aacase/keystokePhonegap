@@ -1,7 +1,7 @@
 keystokePhonegap
 ================
 
-This is the precompiled code for a phonegap build of the webapp located here: (https://keystokestorytime.herokuapp.com)Keystoke StoryTime
+This is the precompiled code for a phonegap build of the webapp located here: [Keystoke Storytime](http://keystokestorytime.herokuapp.com/)
 
 
 This app literally does one thing, and one thing only. It loads a brower window on an android device, and then directs the window
